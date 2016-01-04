@@ -1,0 +1,12 @@
+{
+  "name": "MyReactBox",
+  "version": "0.0.1",
+  "description": "Playground to checkout new React features",
+  "dependencies": {
+    "react": "^0.14.5",
+    "react-dom": "^0.14.5"
+  },
+  "devDependencies": {
+    "babelify": "^7.2.0"
+  }
+}
